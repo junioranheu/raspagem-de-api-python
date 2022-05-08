@@ -16,8 +16,7 @@ class SqlServer:
             self.username = 'xxx'
             self.password = 'xxx'
 
-            #self.tmpdir_sql = r'\\Srvdhtbd\temp_carga'
-            self.tmpdir_sql = r'\\SrvPBD\SELECOES_BI\temp_carga'
+            self.tmpdir_sql = r'\\SrvPBD\xxx\temp_xxx'
 
             self.connect = pyodbc.connect('Driver={SQL Server Native Client 11.0};Server='+self.server+';Database='+self.database+';UID='+self.username+';PWD='+self.password+';')
             self.cursor = self.connect.cursor()
