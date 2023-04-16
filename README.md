@@ -8,4 +8,4 @@ Projeto iniciado em 08/05/2022.
 Foi meu primeiro "grande" contato com Python. Não sou muito fã (C# ❤️), mas achei necessário para conhecer um pouco mais da linguagem.
 
 ## Habilidades
-Python, SQL
+Python, SQL.
